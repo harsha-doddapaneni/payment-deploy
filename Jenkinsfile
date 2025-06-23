@@ -20,7 +20,7 @@ pipeline {
         environment = ''
         component = 'payment'
     }
-                                      
+                                       
     stages {
         
         stage('Setup Environment'){
